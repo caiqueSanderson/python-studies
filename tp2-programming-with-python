@@ -752,7 +752,7 @@
         "  return registro[indice]\n",
         "\n",
         "modificar_registro([\n",
-        "    ['Caique Sanderson De Sa Borges', '08-06-2004', '529.982.247-25', 'caique@gmail.com'],\n",
+        "    ['San', '02-06-2000', '529.982.247-25', 'caique@gmail.com'],\n",
         "    ['Fulano De Tal', '25-12-2000', '529.982.247-25', 'fulano@gmail.com'],\n",
         "])"
       ],
@@ -823,7 +823,7 @@
         "    return registros\n",
         "\n",
         "modificar_registro([\n",
-        "    ['Caique Sanderson De Sa Borges', '08-06-2004', '529.982.247-25', 'caique@gmail.com'],\n",
+        "    ['San', '02-06-2000', '529.982.247-25', 'caique@gmail.com'],\n",
         "    ['Fulano De Tal', '25-12-2000', '529.982.247-25', 'fulano@gmail.com'],\n",
         "], 1, ['Francisco','12/04/1979','529.982.247-25','francisco@gmail.com'])\n"
       ],
